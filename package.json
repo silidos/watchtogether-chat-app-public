@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1",
     "recompose": "^0.30.0",
     "typeface-roboto": "0.0.75",
-    "video-react": "^0.14.1"
+    "video-react": "^0.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
