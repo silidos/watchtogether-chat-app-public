@@ -15,7 +15,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "5.0.1",
     "recompose": "^0.30.0",
-    "typeface-roboto": "0.0.75",
+    "typeface-roboto": "1.1.13",
     "video-react": "^0.14.1"
   },
   "scripts": {
